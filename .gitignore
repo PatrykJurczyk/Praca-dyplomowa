@@ -1,3 +1,4 @@
 \data
 \__pycache__
 \unet_best_model.h5
+\resnet50_best_model.h5

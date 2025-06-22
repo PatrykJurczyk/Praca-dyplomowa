@@ -1,0 +1,7 @@
+Metric,Value
+F1-score,0.5225
+AUC-PR,0.8
+AUC-ROC,0.7998
+Sensitivity,0.7225
+Specificity,0.7272
+Best threshold,0.35
